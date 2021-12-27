@@ -1,0 +1,14 @@
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\bin\Debug\OPComander.exe.config
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\bin\Debug\OPComander.exe
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\bin\Debug\OPComander.pdb
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\obj\Debug\MainWindow.g.cs
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\obj\Debug\App.g.cs
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\obj\Debug\OPComander_MarkupCompile.cache
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\obj\Debug\OPComander_MarkupCompile.lref
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\obj\Debug\MainWindow.baml
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\obj\Debug\OPComander.g.resources
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\obj\Debug\OPComander.Properties.Resources.resources
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\obj\Debug\OPComander.csproj.GenerateResource.Cache
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\obj\Debug\OPComander.exe
+c:\users\nuhyusuf\documents\visual studio 2015\Projects\OPComander\OPComander\obj\Debug\OPComander.pdb
+C:\Users\Nuhyusuf\Documents\Visual Studio 2015\Projects\OPComander\OPComander\obj\Debug\OPComander.csprojResolveAssemblyReference.cache
